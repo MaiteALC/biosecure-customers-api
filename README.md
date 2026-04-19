@@ -4,11 +4,7 @@ This repository contains the RESTful API responsible for handling all customer-r
 
 > What is BioSecure? It's an enterprise software ecosystem mimicking real-world scenarios for a fictional B2B biosafety company.
 
-Ecosystem Links:
-
-[📦 Products API](https://github.com/MaiteALC/biosecure-products-api)
-
-[🛠️ Commons lib](https://github.com/MaiteALC/biosecure-commons-lib)
+To understand the complete architecture, concepts, and see the other components of this ecosystem, visit the [BioSecure Main Hub](https://github.com/MaiteALC/biosecure-hub) .
 
 **Current project status:** 🚧 In Development
 
