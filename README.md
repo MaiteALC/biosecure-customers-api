@@ -154,14 +154,3 @@ Refer to the table below to see the main variables you might need to modify:
 ## 📖 API Documentation
 
     TODO: Swagger UI / OpenAPI specification integration is planned for future releases. 
-
----
-
-## 🔄 Project Evolution & Poly-repo Migration
-BioSecure started as a monolithic multi-module project to facilitate early development. As the project scaled, modules like `commons-lib` and `customer/products-api` were extracted into their own repositories.
-
-**Current Architecture:** Microservices/Poly-repo.
-
-**Previous Architecture:** Monorepo
-
-If you want to explore the original monolithic directory structure and early evolution, you can browse the v1.0.0-monolithic-era snapshot [here](https://github.com/MaiteALC/biosecure-customers-api/releases/tag/v1.0.0-monolithic-era).
